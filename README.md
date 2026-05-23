@@ -40,6 +40,16 @@ Automation workflow for billing-critical address updates in Oracle EBS.
 `Python` · `SQLite` · `Oracle` · `Selenium`
 
 ---
+<details>
+<summary>More About My Current Work</summary>
+
+I am currently working on my M.Sc. thesis about privacy-preserving publication of aggregate statistics in verifiable electronic voting systems.
+
+My interests include backend engineering, cloud systems, automation, privacy, secure systems, and civic-tech applications.
+
+</details>
+
+---
 
 ## Contact
 
