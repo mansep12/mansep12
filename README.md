@@ -4,10 +4,6 @@
   <b>Software Developer · Computer Science Student · Full-Stack / Backend / Cloud</b>
 </p>
 
-<p align="center">
-  Automation and cloud
-</p>
-
 ---
 
 ## About Me
@@ -37,41 +33,11 @@ Multi-tenant platform for educational kiosks deployed in a real school environme
 
 `React` · `Electron` · `FastAPI` · `SQLModel` · `Google Cloud`
 
-### Pulso Urbano
-
-Urban mobility simulation prototype built during Indies Hack 2026.
-
-`React` · `TanStack Start` · `MapLibre GL` · `Cloudflare Workers` · `D1`
-
 ### Business Process Automation
 
 Automation workflow for billing-critical address updates in Oracle EBS.
 
 `Python` · `SQLite` · `Oracle` · `Selenium`
-
-### Password Manager
-
-Full-stack password manager with client-side cryptography.
-
-`React` · `FastAPI` · `AES-CBC` · `PBKDF2` · `RSA-OAEP`
-
-<details>
-<summary><b>More About My Current Work</b></summary>
-
-<br>
-
-<!-- Escribe aquí el contenido que iba dentro de esta sección desplegable. -->
-
-</details>
-
----
-
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
 
 ---
 
